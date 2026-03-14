@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Anika-Anukriti-Portfolio/static/css/main.a1235a3c.css",
-    "main.js": "/Anika-Anukriti-Portfolio/static/js/main.925415bf.js",
+    "main.js": "/Anika-Anukriti-Portfolio/static/js/main.36f3a2ac.js",
     "static/media/certificate10.jpg": "/Anika-Anukriti-Portfolio/static/media/certificate10.4cdcd0aba6fcafbd4740.jpg",
     "static/media/certificate8.jpg": "/Anika-Anukriti-Portfolio/static/media/certificate8.b5bade0e21ff970cdd51.jpg",
     "static/media/certificate9.jpg": "/Anika-Anukriti-Portfolio/static/media/certificate9.db116728516f8d31b014.jpg",
@@ -47,10 +47,10 @@
     "static/media/WhatsApp Image 2026-03-12 at 21.23.20.jpeg": "/Anika-Anukriti-Portfolio/static/media/WhatsApp Image 2026-03-12 at 21.23.20.95341548a6af5c93009e.jpeg",
     "index.html": "/Anika-Anukriti-Portfolio/index.html",
     "main.a1235a3c.css.map": "/Anika-Anukriti-Portfolio/static/css/main.a1235a3c.css.map",
-    "main.925415bf.js.map": "/Anika-Anukriti-Portfolio/static/js/main.925415bf.js.map"
+    "main.36f3a2ac.js.map": "/Anika-Anukriti-Portfolio/static/js/main.36f3a2ac.js.map"
   },
   "entrypoints": [
     "static/css/main.a1235a3c.css",
-    "static/js/main.925415bf.js"
+    "static/js/main.36f3a2ac.js"
   ]
 }
